@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteExample</string>
+    <string name="teamName">Team Name</string>
+    <string name="add">Add Favorite</string>
+    <string name="id">ID</string>
+    <string name="name">Team Name</string>
+</resources>
